@@ -183,6 +183,8 @@ DocProject/Help/html
 # Click-Once directory
 publish/
 
+FSH.Starter/
+
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
